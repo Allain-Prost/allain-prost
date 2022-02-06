@@ -1,6 +1,19 @@
 ### Olá, eu sou o Allain Prost! 👋
 
-Bem vindo ao meu Github. Estou resgatando esse perfil com o intuito de me apresentar um pouco melhor e para criação de contéudo sobre qualidade de testes, partindo da teoria até chegar na automatização.
+Bem vindo ao meu Github. Estou resgatando esse perfil com o intuito de me apresentar um pouco melhor e para compartilhar a criação de contéudo sobre qualidade de testes, partindo da teoria até a automação.
+
+🧑‍💻 Estou atuando como Analista de qualidade, onde realizo diversas atividades, sendo elas: 
+
+- Analise e entendimento do que o cliente necessita;
+
+- Antecipação de futuros defeitos;
+
+- Criação de casos de testes;
+
+- Planejamento e execução de testes funcionais; 
+- Planejamento e execução de testes automatizados com as ferraments:
+  - Cypress
+  - Robot Framework
 
 <div align="center">
   <a href="https://github.com/allain-prost">
@@ -27,8 +40,6 @@ Bem vindo ao meu Github. Estou resgatando esse perfil com o intuito de me aprese
   <a href="https://instagram.com/allainlc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "allainprost@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/allain-prost/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/rafaballerini/allain-prost/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
