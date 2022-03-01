@@ -1,6 +1,9 @@
 ### Olá, eu sou o Allain Prost! 👋
 
-Bem vindo ao meu Github. Estou resgatando esse perfil com o intuito de me apresentar um pouco melhor e para compartilhar a criação de contéudo sobre qualidade de testes, partindo da teoria até a automação.
+Olá, eu me chamo Allain, sou formado em Sistemas de informação pela UFPB. Venho atuando a um ano como QA, buscando sempre a melhoria contínua do produto e processo. Estou sempre em busca de novos conhecimentos e desafios, acredito que consigo evoluir dia a após dia, ainda mais no mercado de trabalho que proporciona novas experiências e desafios todos os dias. 
+
+Contato:
+E-mail: allainprost@gmail.com
 
 🧑‍💻 Estou atuando como Analista de qualidade, onde realizo diversas atividades, sendo elas: 
 
@@ -14,6 +17,8 @@ Bem vindo ao meu Github. Estou resgatando esse perfil com o intuito de me aprese
 - Planejamento e execução de testes automatizados com as ferraments:
   - Cypress
   - Robot Framework
+  
+- Atualmente estou buscando aprofundar meus estudos em automação de testes de API com o Rest Assured, é algo que eu me identifiquei muito e venho ganhando bastante experiência.
 
 <div align="center">
   <a href="https://github.com/allain-prost">
