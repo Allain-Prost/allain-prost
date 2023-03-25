@@ -1,6 +1,6 @@
 ### Olá, eu sou o Allain Prost! 👋
 
-Olá, eu me chamo Allain, sou formado em Sistemas de informação pela UFPB. Venho atuando a um ano como QA, buscando sempre a melhoria contínua do produto e processo. Estou sempre em busca de novos conhecimentos e desafios, acredito que consigo evoluir dia a após dia, ainda mais no mercado de trabalho que proporciona novas experiências e desafios todos os dias. 
+Olá, eu me chamo Allain, sou formado em Sistemas de informação pela UFPB. Venho atuando a três anos como QA, buscando sempre a melhoria contínua do produto e processo. Estou sempre em busca de novos conhecimentos e desafios, acredito que consigo evoluir dia a após dia, ainda mais no mercado de trabalho que proporciona novas experiências e desafios todos os dias. 
 
 Contato:
 E-mail: allainprost@gmail.com
